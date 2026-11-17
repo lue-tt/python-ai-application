@@ -2,6 +2,15 @@
 
 Python + Streamlit + Gemini API の個人用ライティングツール(DB・認証なし)。
 
+## GitHub
+
+- リポジトリ: https://github.com/lue-tt/python-ai-application (Private)
+- ブランチ: `main`
+
+```powershell
+git clone https://github.com/lue-tt/python-ai-application.git
+```
+
 ## セットアップ
 
 ```powershell
